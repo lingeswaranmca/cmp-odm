@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="Account">
+  <name>Account</name>
+  <uuid>f0e11c00-00d0-44ff-8584-a53f610f415e</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#f15b4fbc-bd4d-4792-937c-a329109b3b56"/>
+  <targetRuleProject href="../../Account#4680ee87-0d41-4292-8f75-d44512078698"/>
+</com.ibm.rules.studio.model.decisionservice:Operation>
